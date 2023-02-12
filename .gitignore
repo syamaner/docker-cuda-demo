@@ -1,2 +1,4 @@
 .vscode/settings.json
 open-pose/data/output/**/*
+cihp_pgn/src/**/*
+cihp_pgn/data/output/**/*
